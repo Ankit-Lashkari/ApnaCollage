@@ -1,4 +1,4 @@
 # ApnaCollage
 This our First git
 <br>
-Author : Ankit Lashkari
+Author : Ankit Lashkari (Apna College)
